@@ -2,7 +2,7 @@
 * mapOnHolochain is an overview tool for collaboration about many kinds of ideas for the map of where the Holochain project might progess, like discussions of what might be good milestones, or paradigms or any idea at all that is relevant
 * most people will want to ***just use*** mapOnHolochain:
   * Firstly, watch this repo (you may need to create a github user)
-    * ![watchgithubrepo](https://user-images.githubusercontent.com/239550/33098082-ff8f8a72-cec0-11e7-989e-7ca4a6b76fb7.jpg | height=200)
+    * ![watchgithubrepo](https://user-images.githubusercontent.com/239550/33098082-ff8f8a72-cec0-11e7-989e-7ca4a6b76fb7.jpg?s=200)
   * Then navigate to http://map.holohackers.org
   
 ## What is it?
