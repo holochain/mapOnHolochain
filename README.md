@@ -3,6 +3,7 @@
 * most people will want to ***just use*** mapOnHolochain:
   * Firstly, watch this repo (you may need to create a github user)  
   <img src="https://user-images.githubusercontent.com/239550/33098082-ff8f8a72-cec0-11e7-989e-7ca4a6b76fb7.jpg" height="200px">  
+  
   * Then navigate to http://map.holohackers.org
   
 ## What is it?
