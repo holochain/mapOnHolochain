@@ -1,7 +1,9 @@
 ## Welcome to the mapOnHolochain repo!
-* mapOnHolochain is an overview tool for collaboration about many kinds of ideas for the map of where the  Holochain project may go
-* most people will just want to go here: http://map.holohackers.org
-
+* mapOnHolochain is an overview tool for collaboration about many kinds of ideas for the map of where the Holochain project might progess, like discussions of what might be good milestones, or paradigms or any idea at all that is relevant
+* most people will want to ***just use*** mapOnHolochain:
+  * Firstly, watch this repo (you may need to create a github user)
+  * Then navigate to http://map.holohackers.org
+  
 ## What is it?
 * mapOnHolochain tries to strike an innovative balance between formal and informal communications.
 * Formal communications include tools like issue trackers, kanban tools, getFlow, etc.
