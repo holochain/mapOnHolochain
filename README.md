@@ -5,7 +5,9 @@
   <img src="https://user-images.githubusercontent.com/239550/33098082-ff8f8a72-cec0-11e7-989e-7ca4a6b76fb7.jpg" height="200px">  
   
   * Then navigate to http://map.holohackers.org
-  
+
+> there is a kanban view of the same issues as are backing mapOnHolochain held here: https://waffle.io/Holochain/mapOnHolochain, which may be of use
+
 ## What is it?
 * mapOnHolochain tries to strike an innovative balance between formal and informal communications.
 * **the formal part** is this github repository. Formal communications include tools like issue trackers, kanban tools, getFlow, etc.
