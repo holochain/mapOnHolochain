@@ -1,4 +1,4 @@
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/Holochain/thePlan.png?columns=all)](https://waffle.io/Holochain/thePlan?utm_source=badge)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Holochain/mapOnHolochain.png?columns=all)](https://waffle.io/Holochain/mapOnHolochain?utm_source=badge)
 
 ## Welcome to the mapOnHolochain repo!
 * mapOnHolochain is an overview tool for collaboration about many kinds of ideas for the map of where the Holochain project might progess, like discussions of what might be good milestones, or paradigms or any idea at all that is relevant
