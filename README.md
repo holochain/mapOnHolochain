@@ -6,7 +6,7 @@
   
   * Then navigate to http://map.holohackers.org
 
-> there is a kanban view of the same issues as are backing mapOnHolochain held here: https://waffle.io/Holochain/mapOnHolochain, which may be of use
+> there is a kanban view of the same issues as are backing mapOnHolochain held here: https://waffle.io/Holochain/mapOnHolochain, which may be of interest to developers
 
 ## What is it?
 * mapOnHolochain tries to strike an innovative balance between formal and informal communications.
