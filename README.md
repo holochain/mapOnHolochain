@@ -11,7 +11,7 @@
 * the formal part is this github repository. Formal communications include tools like issue trackers, kanban tools, getFlow, etc.
   * currently *ideas for a plan* which is the project that mapOnHolochain uses only integrates with github
 * the informal part is a great big diagram of all the ideas that people have come up with so far.
-  * mapOnHolochain is a collaboration tool. Anyone can add ideas anywhere they like on the current map, and the holochain project will work to try and synthesise those ideas into something that makes sense. There is no formal procedure for this, just as there is no formal procedure for any discussion between people. However any protocols can be agreed between people as the project matures.
+  * mapOnHolochain is a collaboration tool. Anyone can add ideas anywhere they like on the current map, and then a core team works to synthesize those ideas into a holistic view of the space. There is no set, formal procedure for the synthesis, just as there is no formal procedure in general terms, for "discussion between people". However moving forward, protocols may well be agreed as the project matures.
 
 ## Helping out - adding and discussing ideas
   * the web interface for mapOnHolochain is here: http://map.holohackers.org/
